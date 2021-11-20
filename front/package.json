@@ -1,0 +1,11 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "main": "public/index.js",
+  "license": "MIT",
+  "description": "Servidor para front da aplicação",
+  "author": "Roberto Gualberto dos Santos",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
